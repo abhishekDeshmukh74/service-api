@@ -1,0 +1,28 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#ffffff",
+        "activityBar.activeBackground": "#ffffff",
+        "activityBar.activeBorder": "#df9f9f",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#df9f9f",
+        "activityBarBadge.foreground": "#15202b",
+        "titleBar.activeBackground": "#d7ceff",
+        "titleBar.inactiveBackground": "#d7ceff99",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveForeground": "#15202b99",
+        "statusBar.background": "#d7ceff",
+        "statusBarItem.hoverBackground": "#ad9bff",
+        "statusBar.foreground": "#15202b",
+        "sash.hoverBorder": "#ffffff",
+        "statusBarItem.remoteBackground": "#d7ceff",
+        "statusBarItem.remoteForeground": "#15202b"
+    },
+    "peacock.color": "#d7ceff",
+    "editor.tabSize": 2,
+    "cSpell.words": [
+        "Abhishek",
+        "Deshmukh",
+        "Middlewares"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "A D",
+      "email": "AD",
+      "subscriptionTier": "GOLD"
+    },
+    {
+      "id": 2,
+      "name": "A D 2",
+      "email": "AD2",
+      "subscriptionTier": "FREE"
+    }
+  ]
+}
